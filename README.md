@@ -1,6 +1,6 @@
 # My learning Journal scrimba solo project
 
-Quick start:
+This is mny first multi page project, you can check it by clicking (here)[https://rawi2115.github.io/My-learning-Journal-project/]
 
 ## About Scrimba
 
