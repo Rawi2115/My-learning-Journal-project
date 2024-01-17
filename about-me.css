@@ -1,0 +1,50 @@
+html,body {
+    margin: 0;
+    padding: 0;
+}
+body {
+    min-height: 100vh;
+    font-family: 'Source Sans 3', sans-serif;
+}
+* {
+    box-sizing: border-box;
+}
+.logo {
+   width: 25px;
+}
+header{
+    display: flex;
+    padding: 1em;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5em;
+}
+h3 {
+    margin: 0;
+    font-weight: 500;
+}
+.site-name {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+.navigation {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    gap: 1em;
+}
+li {
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+li > a {
+    text-decoration: none;
+    color: black;
+}
